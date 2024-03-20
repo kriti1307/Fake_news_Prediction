@@ -1,1 +1,1 @@
-fake News Prediction using ML
+Fake News Prediction using ML
